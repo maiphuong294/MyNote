@@ -114,7 +114,7 @@ public class AddNotePanel extends JPanel{
 
                 textArea_content.setText("");
                 textArea_noteName.setText("");
-            }
+            }//comment
         });
     }
 }
